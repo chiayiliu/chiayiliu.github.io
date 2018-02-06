@@ -18,14 +18,15 @@
     "uniqCompNum": 11,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-228-128x128-1.png",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Homepage",
+        "title": "Luckymon - Geomet",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -70,18 +71,18 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/front-page-1440x2560.png",
-                "thumb": "@PROJECT_PATH@/assets/images/front-page-1440x2560-800x1422.png",
+                "image": "@PROJECT_PATH@/assets/images/l3-1440x2560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/l3-1440x2560-800x1422.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/l1-1-1440x2560.png",
                 "thumb": "@PROJECT_PATH@/assets/images/l1-1-1440x2560-800x1422.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/l2-1440x2560.png",
@@ -95,7 +96,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/l4-1440x2560-800x1422.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
