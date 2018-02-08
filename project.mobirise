@@ -48,7 +48,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=09SynhTKFfQ",
+              "src": "https://youtu.be/bWjZVazX_Lk",
               "autoplay": "on",
               "loop": false
             }
@@ -214,7 +214,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Geometry</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GeomeTRY</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-a"
         }
