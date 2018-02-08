@@ -27,7 +27,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Luckymon - Geomet",
+        "title": "Luckymon - GeomeTRY",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -64,7 +64,7 @@
           },
           "title": "GeomeTRY",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.luckymon.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
@@ -242,9 +242,10 @@
               "src": "@PROJECT_PATH@/assets/images/luckmon-6.svg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "Luckymon",
+              "link": "http://www.luckymon.xyz",
+              "title": "Luckymon",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
