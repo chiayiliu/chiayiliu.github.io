@@ -2,6 +2,12 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
+#msg-box1-d .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-d .mbr-article {
+  color: #fff;
+}
 #form1-7 .mbr-header__text {
   color: #1f3636;
   font-family: 'Roboto', sans-serif;
