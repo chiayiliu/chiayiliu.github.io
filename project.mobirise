@@ -27,8 +27,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Luckymon - GeomeTRY",
-        "meta_descr": "",
+        "title": "Luckymon",
+        "meta_descr": "Welcome to Luckymon Game Studio!\nPlease check out our new game, GeomeTRY, on Google Play.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
