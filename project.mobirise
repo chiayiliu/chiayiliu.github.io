@@ -48,7 +48,7 @@
             "showText": false,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -64,7 +64,7 @@
           },
           "title": "GeomeTRY",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.luckymon.xyz\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://play.google.com/store/apps/details?id=xyz.luckymon.geomeTRY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
@@ -209,13 +209,13 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
             "color": "#008080",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#008080"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -232,7 +232,7 @@
               "background": "#008080"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#008080"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
