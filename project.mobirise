@@ -16,7 +16,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-228-128x128-1.png",
@@ -36,19 +36,25 @@
       "components": [
         {
           "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+            ".mbr-header__text": {
+              "color": "#008080"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showMeta": false,
+            "showText": true,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -62,41 +68,31 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "GeomeTRY",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://play.google.com/store/apps/details?id=xyz.luckymon.geomeTRY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-d"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true,
-            "bgColor": "#86d5e1"
-          },
+          "headerAlign": "left",
           "media": {
             "image": {
-              "src": "images/slide3.jpg",
               "class": "mbr-figure__img",
-              "width": 1400
+              "width": 1400,
+              "src": "images/iphone.png"
             },
             "video": {
               "active": true,
-              "class": "mbr-figure__img",
               "src": "https://youtu.be/bWjZVazX_Lk",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
             }
           },
-          "text": "",
+          "title": "GeomeTRY",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>GeomeTRY is a simple but addicting game where you match digits or colors to geometries.&nbsp;</p><p>All you need to do is tap the right one before the targets rush away.</p><p><br></p><p>Try it now! Experience the thrill of setting a new high score with GeomeTRY!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://play.google.com/store/apps/details?id=xyz.luckymon.geomeTRY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD on Google Play</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "video1",
-          "_anchor": "video1-5"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-e"
         },
         {
           "_params": {
